@@ -1,6 +1,8 @@
 ﻿# Animals-10-Deployment
 
-This project aims to build an multiclass image classification model, deployed in TF-Lite format. 
+This project aims to build an multiclass image classification model, deployed in TF-Lite format.
+
+The data is acquired from [kaggle](https://www.kaggle.com/), do refer to it [here](https://www.kaggle.com/datasets/alessiocorrado99/animals10)
 ![Cute Cat](Animals-10%20dataset%20preview.png?raw=true "Animals-10")
 
 This project implements Transfer Learning using the InceptionV3model, added with custom Conv2D MaxPool layers. 
