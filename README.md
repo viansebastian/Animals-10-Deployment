@@ -1,3 +1,3 @@
 ﻿# Animals-10-Deployment
 
-![Cute Cat](InceptionV2 Architecture.png)
+![Cute Cat](Animals-10-Deployment/InceptionV3 Architecture.png)
