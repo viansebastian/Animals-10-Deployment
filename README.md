@@ -7,6 +7,7 @@ The data is acquired from [kaggle](https://www.kaggle.com/), do refer to it [her
 
 This project implements Transfer Learning using the InceptionV3model, added with custom Conv2D MaxPool layers. 
 ![Cute Cat](InceptionV3%20Architecture.png?raw=true "Inception V3 Architecture")
+src : [incV3](https://paperswithcode.com/method/inception-v3)
 
 InceptionV3 is a 42 layer deep CNN model developed by Google. 
 Also known as GoogLeNet, this model has a high image classification performance, utilizing convolution, average pool, max pool, concat, dropout, fully connected and softmax layers.
