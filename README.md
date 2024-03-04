@@ -1,4 +1,4 @@
-﻿# Animals-10-Deployment
+﻿## Animals-10-Deployment
 
 This project aims to build an multiclass image classification model, deployed in TF-Lite format.
 
